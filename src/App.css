@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.birthday{
+  background:linear-gradient(50deg,  #22929658 9%, #34ab89 45%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+.AppTitle{
+  padding: 20px;
+}
+.TitleRow{
+  font-weight: 900;
+  padding: 3rem;
+}
+.formClass{
+  margin-right: 10px;
+}
